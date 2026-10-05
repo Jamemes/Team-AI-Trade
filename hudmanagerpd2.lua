@@ -1,0 +1,3 @@
+function HUDManager:set_custody_respawn_type(is_ai_trade)
+	self._hud_player_custody:set_respawn_type(is_ai_trade)
+end

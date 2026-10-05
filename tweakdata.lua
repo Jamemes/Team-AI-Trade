@@ -1,0 +1,2 @@
+tweak_data.player.damage.automatic_assault_ai_trade_time = 120
+tweak_data.player.damage.automatic_assault_ai_trade_time_max = 180
